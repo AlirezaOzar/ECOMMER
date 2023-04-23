@@ -1,0 +1,10 @@
+.background{
+    background-image: url(./assets/bg/jakob-owens-JzJSybPFb3s-unsplash.jpg);
+    background-size: cover;
+}
+
+.form{
+    backdrop-filter: blur(10px);
+    padding: 1.5rem; 
+    margin: 1rem;
+}
