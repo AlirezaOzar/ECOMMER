@@ -28,8 +28,8 @@ Open http://localhost:3000 with your browser to see the result.
 ## Link of the project
 https://chic-entremet-490826.netlify.app/
 
-<a href="https://uupload.ir/" target="_blank"><img src="https://s8.uupload.ir/files/screenshot_2023-05-14_172149_ninq.png" border="0" alt="آپلود عکس" /></a>
-<a href="https://uupload.ir/" target="_blank"><img src="https://s8.uupload.ir/files/screenshot_2023-05-14_172355_vus3.png" border="0" alt="آپلود عکس" /></a>
+<img src="https://s8.uupload.ir/files/screenshot_2023-05-14_172149_0ryl.png" border="0" alt="آپلود عکس" />
+<img src="https://s8.uupload.ir/files/screenshot_2023-05-14_172355_vus3.png"/>
 
 
 
