@@ -12,7 +12,7 @@ and the actions create with react-redux and redux-toolkit
 - Redux-toolkit
 - Tailwind CSS
 - Material UI
--This is a React.js project bootstrapped with vite.js.
+- This is a React.js project bootstrapped with vite.js.
 
 ## Getting Started
 First, run the development server:
