@@ -1,8 +1,8 @@
-# ECOMMER
+# ECOMMERC
 
-This is ecommer project i build it with react 
+This is ECOMMERC project i build it with react 
 I used material ui for the design and ,
-i worked with the fomik for the manage the forms,
+i worked with the formik for the manage the forms,
 and the actions create with react-redux and redux-toolkit
   
 
